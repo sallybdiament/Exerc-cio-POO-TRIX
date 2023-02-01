@@ -1,2 +1,2 @@
-# Exerc-cio-POO-TRIX
+# Exercício-POO-TRIX
 POO exercise
